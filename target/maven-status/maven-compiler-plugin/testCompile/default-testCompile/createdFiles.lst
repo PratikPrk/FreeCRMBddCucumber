@@ -1,0 +1,3 @@
+stepDefinition\Hooks.class
+stepDefinition\ContactsStepDefinition.class
+Runner\TestRunner.class
